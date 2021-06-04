@@ -83,13 +83,16 @@
 
 ![Tabla 1b-2](https://user-images.githubusercontent.com/85320165/120743391-89d1f200-c4be-11eb-90b6-cea831b4ddbb.png)
 
-![voltaje  circuitos (1)-1](https://user-images.githubusercontent.com/85320165/120742104-ef70af00-c4bb-11eb-9382-22dc41e9b0d6.png)
+![voltaje  circuitos-1](https://user-images.githubusercontent.com/85320165/120801723-261fe700-c507-11eb-944b-98594ce8e1f7.png)
 
-![voltaje  circuitos (1)-2](https://user-images.githubusercontent.com/85320165/120742114-f5669000-c4bb-11eb-8748-8a15fe3028b9.png)
+![voltaje  circuitos-2](https://user-images.githubusercontent.com/85320165/120801734-29b36e00-c507-11eb-9a64-5a4a10f0020e.png)
 
-![voltaje  circuitos (1)-3](https://user-images.githubusercontent.com/85320165/120742127-fc8d9e00-c4bb-11eb-98af-608cfabe1f33.png)
+![voltaje  circuitos-3](https://user-images.githubusercontent.com/85320165/120801744-2cae5e80-c507-11eb-840a-6078ce94dcaa.png)
+
+![voltaje  circuitos-4](https://user-images.githubusercontent.com/85320165/120801503-dccf9780-c506-11eb-9690-ee53043404c0.png)
 
 ![voltaje  circuitos (3)-1](https://user-images.githubusercontent.com/85320165/120742150-06170600-c4bc-11eb-9118-47be82a90c4e.png)
+
 
 ![voltaje  circuitos (3)-2](https://user-images.githubusercontent.com/85320165/120742158-0911f680-c4bc-11eb-9b4d-b73f38bb3240.png)
 
